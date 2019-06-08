@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713612227132",
+    "firebase_url": "https://olx-anuncios.firebaseio.com",
+    "project_id": "olx-anuncios",
+    "storage_bucket": "olx-anuncios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713612227132:android:60fded0b8bc5faf5",
+        "android_client_info": {
+          "package_name": "edwy.lugo.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713612227132-d3hj4l36vd2692fc6tgoefrqpadd0d7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edwy.lugo.olx",
+            "certificate_hash": "25688f79edbf0a5875ba4a722ab7a8e2ea2b5f58"
+          }
+        },
+        {
+          "client_id": "713612227132-bhm2gqn4s8m8g6aj8527ijuh0dsdom3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgnyBdU_9g4C32ijBFtFtC8MFSn9BrnU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713612227132-bhm2gqn4s8m8g6aj8527ijuh0dsdom3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
